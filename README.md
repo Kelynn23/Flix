@@ -4,6 +4,21 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ---
 
+## Flix Part 2
+
+### User Stories
+
+#### REQUIRED (10pts)
+- [x] (5pts) User can tap a cell to see more details about a particular movie.
+- [x] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
+
+
+### App Walkthough GIF
+
+<img src="http://g.recordit.co/w2N83PyJLB.gif" width=250><br>
+
+
+
 ## Flix Part 1
 
 ### User Stories
